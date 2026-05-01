@@ -1,0 +1,13 @@
+torch
+numpy
+pandas
+matplotlib
+scipy
+tqdm
+datasets
+tokenizers
+lxml
+cairosvg
+pillow
+mup
+nbformat
