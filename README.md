@@ -2,7 +2,7 @@
 
 **Name:** Naman Singh  
 **Course:** NYU CS-GY 6923 Machine Learning — Spring 2026  
-**Project:** Scaling Laws for Language Models on SVG Code
+**Project:** SVG-GPT: Scaling Transformer Language Models for Vector Graphics
 
 Google Drive link for notebook output files:  
 https://drive.google.com/drive/folders/1dNYoKDyR3waMEc2zXVX2zozo4VGDo4-U?usp=sharing
